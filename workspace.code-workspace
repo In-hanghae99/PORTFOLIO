@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Downloads/html/imgs"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "PORTFOLIO"
+  }
+}
